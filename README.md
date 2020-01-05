@@ -1,4 +1,5 @@
 # 交互式可视化分析项目——2019福布斯富豪榜分析
+## 项目负责人：17级吴玮馨、18级樊颖禧
 ## 项目代码与内容
 - [pythonanywhere部署链接](http://dataweb.pythonanywhere.com/)
 - [作图的代码链接](http://weixin12138.gitee.io/interactive_visual_code)
